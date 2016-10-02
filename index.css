@@ -1,4 +1,8 @@
-blockquote { color: blue ; }
-strong { color:red}
-/* p { color: navy } */
-div{coloe:black}
+blockquote {
+    color: blue;
+    background-color: goldenrod
+}
+
+strong {
+    color: red
+}
